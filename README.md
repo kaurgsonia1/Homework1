@@ -76,7 +76,7 @@ Major competitors are:
 
 The chart below shows how the major competitors compare with Venmo from 2016 to 2019. 
 
-ADD CHART
+[https://infogram.com/venmo-vs-cashapp-vs-zelle-1h984we0d5xd4p3]
 
 As we can see, Venmo is below Zelle and Square, but still very competitive! 
 
