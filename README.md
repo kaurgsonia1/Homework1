@@ -91,7 +91,7 @@ Some of the major metrics that Venmo focuses on are its revenue, number of users
 Primarly, I would recommend that the company focuses on the security of payments during tranactions and advertises this security. Although, just like other platforms Venmo uses data encryptions, publically there have been many discussions of its security. One of the differences between Zelle and Venmo is that Zelle is a bank-backed application. One of the benefits of Venmo is that it is backed by PayPal which has been trusted in the market for 20+ years. Due to Zelle being bank-based, it tends to gain trust from users quicker than Venmo. 
 
 
-![Venmo](trilogy/VenmoPic.png)
+![Venmo](VenmoPic.png)
 
 ## **References**
 
