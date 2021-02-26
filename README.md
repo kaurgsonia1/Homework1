@@ -11,7 +11,7 @@
 Venmo was incorporated in 2009. 
 The founders of Venmo were Andrew Kortina and Iqram Magdon-Ismail.
 
-This company came about because two friends wanted to enhance the current software that a friend was using at their Frozen Yogurt store.They felt that it was inadequate with its traditional approach for the exchange of currency. This prompted them to create their first prototype for sending cash via a text message before they created the smartphone app, Venmo. 
+This company came about because two friends wanted to enhance the current software that a friend was using at his frozen yogurt store.They felt that it was inadequate with its traditional approach for the exchange of currency. This prompted them to create their first prototype for sending cash via a text message before they created the smartphone app, Venmo. 
 
 Overtime as they redesgined and revised their models, they gained interest of larger investors, such as Paypal, who finacially supported further advancements to the app. 
 
@@ -25,17 +25,17 @@ This app was targeted for the younger population intially, specifically for coll
 
 -In December 2013, PayPal acquired Braintree for $800 million.
 
--After the acquisition of PayPal, Venmo is slowly creating new and new platforms to gain profits and funding.
+-After the acquisition of PayPal, Venmo is slowly creating new and new platforms to gain profits and funding. Even today, Venmo is largely funded by institutional investors providing the capital. 
 
 ## **Business Activities**
 
-Instantaneous Cashless Handling is the issue that Venmo continues to target to solve for our society. It allows for peer-to-peer transfers to be completed with a phone app on a very user-friendly interface. This replaces the use of withdrawing cash from ATMs, writing checks, arranging wire transfers, or even using a quick pay system that is tied to a particular bank (i.e. Chase Bank). 
+Instantaneous cashless handling is the issue that Venmo continues to target to solve for our society. It allows for peer-to-peer (P2P) transfers to be completed with a phone app on a very user-friendly interface. This replaces the use of withdrawing cash from ATMs, writing checks, arranging wire transfers, or even using a quick pay system that is tied to a particular bank (i.e. Chase Bank). 
 
-Venmo appeals to many different populations in our community. It appeals to the average college student, as well as businesses. In general terms, it will appeal to anyone that handles money in any way on a daily basis. Due to the simplicity of the app and ease of use, it is not difficult for older generations to use once it has been installed and linked to the debit card. The features of the app to allow users to add emojis allows millennials to have fun while using the app. Apps such as Zelle and CashApp are not as appealing in colors and creative. 
+Venmo appeals to many different populations in our community. It appeals to the average college student, as well as businesses. In general terms, it will appeal to anyone that handles money in any way on a daily basis. Due to the simplicity of the app and ease of use, it is not difficult for older generations to use once it has been installed and linked to the debit card. The features of the app that appeal to the younger generation include the use of emojis for expressions during purchases. It allows millennials to have fun while using the app. Apps such as Zelle and CashApp are not as appealing in colors and creative. 
 
-Venmo differentiates itself from competitors by not charging a fee to send or receive transactions, unless they are through a credit card or for a business venure. Also, the limits for Venmo tranactions is $2999/week versus $500/week for Zelle. Also Venmo can be used with applications such as UberEats and Uber. 
+Venmo differentiates itself from competitors by not charging a fee to send or receive transactions, unless they are through a credit card or for a business venure. Also, the limits for Venmo tranactions is $2999/week versus a possiblilty of $500/week for Zelle depending on the bank being used and the transaction amount. Also Venmo can be used with applications such as UberEats and Uber. 
 
-The major technology that Venmo uses is Automatic Clearing House (ACH) processing platform. 
+The major technology that Venmo implements is Automatic Clearing House (ACH) processing platform. It uses AI to create these networks. 
 
 ## **Landscape**
 
@@ -86,7 +86,7 @@ The chart below shows how the major competitors compare with Venmo from 2016 to 
 
 [https://infogram.com/venmo-vs-cashapp-vs-zelle-1h984we0d5xd4p3]
 
-As we can see, Venmo is below Zelle and Square, but still very competitive! 
+As we can see, Venmo is below Zelle and Square in terms of payment volume, but still very competitive! 
 
 ## **Recommendations**
 
@@ -94,7 +94,7 @@ Primarly, I would recommend that the company focuses on the security of payments
 
 Also, it would be beneficial for Venmo to expand its network and venure into connecting with other applications. They can connect with Facebook, Instagram, Spotify, YouTube, Amazon, online retail stores-such as Belk, etc. This would transition to a cashless economy sooner. 
 
-This can be achieved by increasing neural networks in the field of Artifical Intelligence.
+This can be achieved by using artifical intelligence and increasing its neural networks. 
 
 ![Venmo](VenmoPic.png)
 
